@@ -1,1 +1,1 @@
-fn is_prime(x:i32){false}
+fn is_prime(x:i32)->bool{false}
