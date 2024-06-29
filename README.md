@@ -27,10 +27,16 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 
 ## The algorithm has been implemented in the following languages:
 
+- ABPLWNL
+- Acorn
+- ActionScript
 - Ada
 - Agda
+- 𒀝𒅗𒁺𒌑 "Akkadian Cuneiform"
+- Albanian
 - Apex
 - APL
+- APOL
 - AMONGUSISABIGSUSSYBAKAHAHAHAHAHATHISLANGUAGEISREALLYCOOLPLEASEUSEITMYLIFEDEPENDSONITORELSEPLSPLSPLSPLSPLSPLSPLSkahyghdfhmILLDIEIFYOUDONTUSEITSOPLEASEUSEITALSODONATETOMYGOFUNDMEBECAUSEIMGONNADIEBECAUSEYOUWONTUSETHISLANGUAGEURTHEIMPOSTORANDTHATISSUSIMGOINGTOCALLAMEETINGONYOUYOUVENTEDYOUSUSSYBAKA
 - Arabic
 - Arduino
@@ -40,6 +46,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - AWK
 - Bash
 - BASIC
+- Batchfile
 - Bc
 - Beef
 - Binary
@@ -47,24 +54,32 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Brainfuck
 - BQN
 - C
+- CÉ
 - Carbon
+- Chapel
 - CLIPS
 - Claire
 - Clojure
+- Cmake
 - CoffeeScript
 - CommonJS
+- CommonTS
 - COBOL
 - Chef
+- 北語中文 "Chinese (Beiyu/Mandarin)"
+- Corth
 - Coq
 - COW
 - Crystal
 - CSS
+- CSS Map file
 - CUDA
 - C++
 - C#
 - D
 - Dafny
 - Dart
+- DataWeave
 - DXL
 - Dutch
 - DreamBerd---e-acc
@@ -74,15 +89,22 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - English (markdown)
 - English (text)
 - Erlang
+- Eslint JSON
 - Estonian
+- Env
 - F#
 - Farsi (Persian)
 - Fish
+- fiz
 - FORTH
 - FORTRAN 77
 - Fortran 95
+- French
 - FStar
+- GDScript
 - German
+- Gitignore
+- Github
 - Gleam
 - GO
 - GoogleScript
@@ -91,12 +113,15 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - GSC
 - Haskell
 - Haxe
+- Hintrc
 - HolyC
 - Hungarian
 - HTML
+- Intercal
 - JamogusLamogusAmogus
 - Java
 - JavaScript
+- JavaScript Module
 - JavaScript XML
 - JSON
 - Julia
@@ -105,9 +130,12 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Latin
 - Latvian
 - Lean
+- LICENSE
 - Lisp
 - LiveScript
 - Lua
+- Local Env
+- Makefile
 - Malbolge
 - Mathematica
 - Matlab
@@ -119,12 +147,16 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Monkey
 - Morse code
 - Nepali
+- Oberon-07
 - OCaml
 - Odin
+- nya~
 - Nim
+- NPM Ignore
 - Pascal
 - Perl
 - PHP
+- Pony
 - PureScript
 - Piet
 - PL/SQL
@@ -134,17 +166,23 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Processing
 - Prolog
 - Python
+- Python AI/ML/DL
 - q
 - Q#
 - R
 - Racket
 - Rebol
+- React Javascript
+- React Typescript
+- RISC-V Assembly
 - Rockstar
 - Romanian
 - Ruby
 - Rust
+- SASS
 - Scala
 - Scratch
+- SCSS
 - Shakespeare Programming Language (SPL)
 - SIC-1 Assembly
 - Scheme
@@ -153,15 +191,21 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Spanish
 - Standard ML
 - STEP-7 AWL
+- SQF
 - SQL
 - Squirrel
 - Swift
 - SystemVerilog
+- Travis YML
 - Tcl
 - Terraform
+- Thue
+- TI-Basic
 - Toit
 - TrumpScript
 - TypeScript
+- TypeScript Declaration File
+- TypeScript Module
 - Unreal-Engine Blueprints
 - UwU
 - V
@@ -174,9 +218,15 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - WebAssembly
 - Wenyan
 - Whitespace
+- YML
 - X++
 - Zig
 - Mira
 - LabVIEW
 - Circuit
 - @everyone
+- 9f87m4atttaaaou;
+- Genesis 𐤁
+- Redscript
+- dc
+- Portugol
