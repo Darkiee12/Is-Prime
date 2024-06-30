@@ -220,6 +220,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Whitespace
 - YML
 - X++
+- XML
 - Zig
 - Mira
 - LabVIEW
