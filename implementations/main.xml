@@ -1,0 +1,7 @@
+<!DOCTYPE root [
+  <!ELEMENT root (isPrime)>
+  <!ELEMENT isPrime (#PCDATA)>
+]>
+<root>
+  <isPrime>false</isPrime>
+</root>
